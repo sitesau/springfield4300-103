@@ -1,0 +1,22 @@
+{
+  "wheel_id": 555,
+  "structure": "umbrella",
+  "slug": "springfield4300-103",
+  "project": "local-services-springfield-questions-to-ask-2d7853f85f30f148dbb",
+  "parent_t1_ref": "springfield4300-151",
+  "node_role": "feeder",
+  "money_target": "springfield4300.com.au",
+  "primary_kw": "local services springfield questions to ask",
+  "intended_url": "https://sites-e470-2.web.app/local-services-springfield-questions-to-ask-2d7853f85f30f148dbb/",
+  "tier": "T2",
+  "writeback_nonce": "9673357feeaa4ead",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/local-services-springfield-c0c487a57a258d7c3b126fdf256b2a9f4891/",
+      "anchor": "the local services springfield overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
